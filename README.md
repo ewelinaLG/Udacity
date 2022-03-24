@@ -1,4 +1,7 @@
 ## Welcome to GitHub Pages
+## Udacity Blog Post
+
+![image](https://github.com/ewelinaLG/Udacity/blob/main/LanguagesNumber.png)
 
 You can use the [editor on GitHub](https://github.com/ewelinaLG/Udacity/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
