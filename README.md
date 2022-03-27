@@ -1,7 +1,45 @@
-## Welcome to GitHub Pages
-## Udacity Blog Post
+## How to increase you're salary??
+
+### Introduction
+
+Let's imagine that you are a programmer and wondering how to increase you're salary.
+
+Based on data colected by  Stackoverflow in 2017 Annual Developer Survey, I wil answer this question.
+Data covers 64,000 reviews from 213 countries and territories. The survey aims to understand multiple aspects of jobs related to software development and data analytics.
+
+...
+
+In below analysis, I will show following aspects related to salary size:
+
+### I: More programming languages you know - more you earn?
+
+### II: If you know Python, you earn more?
+
+### III: Location makes a difference?
+
+...
+
+### I: More programming languages you know - more you earn?
+
 
 ![image](https://github.com/ewelinaLG/Udacity/blob/main/LanguagesNumber.png)
+
+...
+
+### II: If you know Python, you earn more?
+
+...
+
+### III: Location makes a difference?
+
+...
+
+### Conclusion
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/ewelinaLG/Udacity/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
