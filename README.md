@@ -36,7 +36,12 @@ If you know one programing lanugage, getting to know second programming language
 
 ### II: If you know Python, you earn more?
 
+Let's compary programmers who knows Python versus those, who doesn't.
+
 ![image](https://github.com/ewelinaLG/Udacity/blob/main/salary_python.png)
+
+It turned out that YES!
+If you know Python, you earn more.
 
 ...
 
