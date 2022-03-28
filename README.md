@@ -4,8 +4,8 @@
 
 Let's imagine that you are a programmer and wondering how to increase you're salary.
 
-Based on data colected by  Stackoverflow in 2017 Annual Developer Survey, I wil answer this question.
-Data covers 64,000 reviews from 213 countries and territories. The survey aims to understand multiple aspects of jobs related to software development and data analytics.
+Based on data colected by Stackoverflow in 2017 Annual Developer Survey, I wil give you some hints, what might be beneficial for you or what makes no much a difference in terms of salary.
+There are 64,000 reviews from 213 countries, survey aims to understand aspects of jobs related to software development and data analytics.
 
 ...
 
