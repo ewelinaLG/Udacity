@@ -11,7 +11,7 @@
 - numpy
 - pandas
 - pycountry_convert
-- matplotlib.pyplot
+- matplotlib
 
 ## Project Motivation<a name="motivation"></a>
 
