@@ -17,11 +17,9 @@
 
 For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
 
-1. How other developers suggested breaking into the field (what education to pursue)?
-2. What factors about an individual contributed to salary?
-3. How bias played a role in the suggestions of developers for how to break into the field?
-4. What was the state of bootcamps for assisting individuals with breaking into developer roles?
-5. How were bootcamps assisting with increasing diversity in tech careers?
+1. More programming languages you know - more you earn?
+2. If you know Python, you earn more?
+3. Location makes a difference?
 
 
 ## File Descriptions <a name="files"></a>
