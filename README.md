@@ -1,73 +1,39 @@
-## How to increase you're salary??
+### Table of Contents
 
-![image](https://github.com/ewelinaLG/Udacity/blob/main/grapgics.jpg)
+1. [Libraries used](#Libraries)
+2. [Project Motivation](#motivation)
+3. [File Descriptions](#files)
+4. [Results](#results)
+5. [Licensing, Authors, and Acknowledgements](#licensing)
 
-### Introduction
+## Libraries used <a name="Libraries"></a>
 
-Let's imagine that you are a programmer and wondering how to increase you're salary.
+- numpy
+- pandas
+- pycountry_convert
+- matplotlib.pyplot
 
-Based on data colected by Stackoverflow in 2017 Annual Developer Survey, I wil give you some hints, what might be beneficial for you or what makes no much a difference in terms of salary.
-There are 64,000 reviews from 213 countries, survey aims to understand aspects of jobs related to software development and data analytics.
+## Project Motivation<a name="motivation"></a>
 
-...
+For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
 
-In below analysis, I will show following aspects related to salary size:
-
-### I: More programming languages you know - more you earn?
-
-### II: If you know Python, you earn more?
-
-### III: Location makes a difference?
-
-...
-
-### I: More programming languages you know - more you earn?
-
-Majority of asked people can program in 3 languages (more than 20%). When narrowing down data to programmers who can program in 6 or less, there is a hughe jump in avarage Salary from one known language or two (from 53,000 to 58,000) but then there is stable with an exception in knowledge of 3 programming languages (salary is low).
-
-![image](https://github.com/ewelinaLG/Udacity/blob/main/LanguagesNumber.png)
+1. How other developers suggested breaking into the field (what education to pursue)?
+2. What factors about an individual contributed to salary?
+3. How bias played a role in the suggestions of developers for how to break into the field?
+4. What was the state of bootcamps for assisting individuals with breaking into developer roles?
+5. How were bootcamps assisting with increasing diversity in tech careers?
 
 
-![image](https://github.com/ewelinaLG/Udacity/blob/main/salary_language_number.png)
+## File Descriptions <a name="files"></a>
 
-If you know one programing lanugage, getting to know second programming language will increase you're salary. However, knowledge about third or more will not make much of a difference.
+There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
 
-...
+There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
 
-### II: If you know Python, you earn more?
+## Results<a name="results"></a>
 
-Let's compary programmers who knows Python versus those, who doesn't.
+The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
 
-![image](https://github.com/ewelinaLG/Udacity/blob/main/salary_python.png)
+## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-It turned out that YES!
-If you know Python, you earn more.
-
-...
-
-### III: Location makes a difference?
-
-I've also checked if it is true that salary depends on programmer's location.
-
-In the first chart it is shown that programmers loacted in North America earn much more than those located other parts of the world.
-
-![image](https://github.com/ewelinaLG/Udacity/blob/main/salary_continent.png)
-
-
-I've narrowed this to Europe and added Excpected Salary.
-
-![image](https://github.com/ewelinaLG/Udacity/blob/main/salary_europe.png)
-
-It looks like programmers in all location think that they will earn less that they actualy are earning.
-It makes a huge diference if you are based in Switzerland than in Latvia or Poland.
-
-...
-
-### Conclusion
-
-To sum up, if you would like to increase you're salary:
-1) learn at least 2 programming languages
-2) one of those should be Python
-3) move to North America or Switzerland
-
-What is the easiest of those for you to do? ;)
+Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data).  Otherwise, feel free to use the code here as you would like! 
