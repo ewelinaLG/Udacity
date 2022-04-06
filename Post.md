@@ -5,6 +5,7 @@
 ### Business Understanding
 
 #### Brief description
+
 Let's imagine that you are a programmer and wondering how to increase you're salary. Project follows the CRISP-DM process
 
 Based on data colected by Stackoverflow in 2017 Annual Developer Survey, I wil give you some hints, what might be beneficial for you or what makes no much a difference in terms of salary.
@@ -26,9 +27,13 @@ In below analysis, I will show following aspects related to salary size:
 
 #### Access and Explore
 
+Data used comes from Stack Overflow. Licensing for the data and other information can be found at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data). 
+
 ### Prepare Data
 
 #### Wrangle and Clean
+
+The goal of data wrangling is to assure quality and useful data. This follows a set of general steps which begin with extracting the data in a raw form from the data source, "munging" the raw data (e.g. sorting) or parsing the data into predefined data structures, and finally depositing the resulting content into a data sink for storage and future use.
 
 ### Question I: More programming languages you know - more you earn?
 
