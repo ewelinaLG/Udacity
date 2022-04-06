@@ -2,9 +2,10 @@
 
 ![image](https://github.com/ewelinaLG/Udacity/blob/main/grapgics.jpg)
 
-### Introduction
+### Business Understanding
 
-Let's imagine that you are a programmer and wondering how to increase you're salary.
+#### Brief description
+Let's imagine that you are a programmer and wondering how to increase you're salary. Project follows the CRISP-DM process
 
 Based on data colected by Stackoverflow in 2017 Annual Developer Survey, I wil give you some hints, what might be beneficial for you or what makes no much a difference in terms of salary.
 There are 64,000 reviews from 213 countries, survey aims to understand aspects of jobs related to software development and data analytics.
@@ -13,11 +14,11 @@ There are 64,000 reviews from 213 countries, survey aims to understand aspects o
 
 In below analysis, I will show following aspects related to salary size:
 
-### I: More programming languages you know - more you earn?
+#### Question I: More programming languages you know - more you earn?
 
-### II: If you know Python, you earn more?
+#### Question II: If you know Python, you earn more?
 
-### III: Location makes a difference?
+#### Question III: Location makes a difference?
 
 ...
 
